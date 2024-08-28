@@ -1,0 +1,10 @@
+alpha
+delta
+tango
+halo
+John
+./hello
+'world
+'hello
+
+[Add your passwords here]
