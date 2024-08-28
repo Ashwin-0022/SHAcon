@@ -1,8 +1,0 @@
-alpha
-delta
-tango
-halo
-John
-./hello
-'world
-'hello
