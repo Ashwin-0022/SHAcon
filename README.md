@@ -2,7 +2,7 @@
 
 **SHAcon** is a hashing and dehashing tool developed using Python.
 
-![image](https://github.com/user-attachments/assets/af06b5fb-17d0-4479-93e1-656605811090)
+<img src="https://github.com/user-attachments/assets/af06b5fb-17d0-4479-93e1-656605811090"/> 
 
 
 ## Features 🚀
