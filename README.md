@@ -2,7 +2,7 @@
 
 **SHAcon** is a hashing and dehashing tool developed using Python.
 
-<img src="https://github.com/user-attachments/assets/af06b5fb-17d0-4479-93e1-656605811090"/> 
+<img src="https://github.com/user-attachments/assets/af06b5fb-17d0-4479-93e1-656605811090" alt="SHAcon"/> 
 
 
 ## Features 🚀
@@ -42,13 +42,13 @@ python3 SHAcon.py
 
 Hasher
 
-<img src="https://github.com/user-attachments/assets/3c99f2ca-27ab-4b3e-9af2-90574f46a8f1" width="854" height="480" alt="Description of GIF"/>
+<img src="https://github.com/user-attachments/assets/3c99f2ca-27ab-4b3e-9af2-90574f46a8f1" width="854" height="480" alt="Hasher.gif"/>
 
 <hr>
 
 Revertmode
 
-<img src="https://github.com/user-attachments/assets/b179b761-089e-4d44-ad92-ab7e535084ab" width="854" height="480" alt="Description of GIF"/>
+<img src="https://github.com/user-attachments/assets/b179b761-089e-4d44-ad92-ab7e535084ab" width="854" height="480" alt="Revertmode.gif"/>
 
 ## Note ⚠️
 
