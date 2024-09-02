@@ -38,6 +38,18 @@ cd SHAcon
 python3 SHAcon.py
 ```
 
+## Usage 
+
+Hasher
+
+<img src="https://github.com/user-attachments/assets/3c99f2ca-27ab-4b3e-9af2-90574f46a8f1" width="854" height="480" alt="Description of GIF"/>
+
+<hr>
+
+Revertmode
+
+<img src="https://github.com/user-attachments/assets/b179b761-089e-4d44-ad92-ab7e535084ab" width="854" height="480" alt="Description of GIF"/>
+
 ## Note ⚠️
 
 When using Revert mode, make sure to add your custom password dictionary to 'passfile.txt'.
