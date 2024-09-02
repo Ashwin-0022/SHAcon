@@ -38,7 +38,7 @@ cd SHAcon
 python3 SHAcon.py
 ```
 
-## Usage 
+## Getting Started ✨ 
 
 Hasher
 
