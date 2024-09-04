@@ -52,5 +52,5 @@ Revertmode
 
 ## Note ⚠️
 
-When using Revert mode, make sure to add your custom password dictionary to 'passfile.txt'.
+When using Revert mode, make sure to add your custom wordlist dictionary to 'passfile.txt'.
 
