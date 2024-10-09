@@ -1,6 +1,6 @@
 # SHAcon
 
-**SHAcon** is a hashing and dehashing tool developed using Python.
+**SHAcon** is a hashing and cracking tool developed using Python.
 
 <img src="https://github.com/user-attachments/assets/af06b5fb-17d0-4479-93e1-656605811090" alt="SHAcon"/> 
 
