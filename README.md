@@ -7,8 +7,8 @@
 
 ## Features 🚀
 
-- **Hashing:** Generate secure hashes using various algorithms.
-- **Revert mode (Dictionary Attack):** Attempt to reverse hashes using a dictionary of potential passwords.
+- **Hashing:** Generate secure hashes using various SHA algorithms.
+- **Revert mode (Dictionary Attack):** Attempt to reverse hashes using a dictionary of potential wordlist.
 
 ## Supported Hashes 🗝️
 SHA1
